@@ -4,9 +4,8 @@
         <Identity Id="BlitzBasicLanguageSupport.1e3e1c9d-ba53-4504-aa56-fbab749d999f" Version="0.0.1" Language="en-US" Publisher="Simoxus" />
         <DisplayName>BlitzBasicLanguageSupport</DisplayName>
         <Description xml:space="preserve">Adds language support for the BlitzBasic coding language in Visual Studio 2022.</Description>
-        <License>license.txt</License>
+        <License>LICENSE.txt</License>
         <GettingStartedGuide>https://kippykip.com/b3ddocs/commands/index.htm</GettingStartedGuide>
-        <ReleaseNotes>changelog.txt</ReleaseNotes>
         <Icon>icon.ico</Icon>
         <Tags>BlitzBasic, blitz3d, blitz3d-decls, debuggers, snippet</Tags>
     </Metadata>
