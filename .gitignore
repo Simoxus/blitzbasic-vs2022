@@ -1,0 +1,19 @@
+# Build artifacts
+[Bb]in/
+[Oo]bj/
+*.vsix
+*.vsix.zip
+
+# User-specific files
+.vs/
+*.user
+*.suo
+
+# Temporary files
+*.log
+*.tmp
+
+# NuGet packages
+packages/
+*.nupkg
+obj/project.assets.json
